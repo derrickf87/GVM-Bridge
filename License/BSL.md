@@ -7,18 +7,17 @@ License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
 
 Parameters
 
-Licensor:             Cycan Technologies
+Licensor:             Cycan Technologies / Cycan Foundation Ltd.
 
 Licensed Work:        GVM Bridge
-                      The Licensed Work is (c) 2021 Cycan Technologies
+                      The Licensed Work is (c) 2021 Cycan Technologies / Cycan Foundation Ltd.
 
-Additional Use Grant: Any uses listed and defined at
-                      /
+Additional Use Grant: None
 
-Change Date:          The earlier of 2023-04-01 or a date specified at
-                      /
+Change Date:          The earlier of 2024-07-05 or a date specified at
+                      www.cycan.network
 
-Change License:       GNU General Public License v2.0 or later
+Change License:       Apache License, Version 2.0
 
 -----------------------------------------------------------------------------
 
